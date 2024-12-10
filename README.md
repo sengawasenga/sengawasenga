@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hey there!
 🚀 I’m currently working on a mobile project with React Native<br>📚 I’m looking to collaborate on scalable full-stack applications and UI/UX designs<br>🌱 I’m currently learning strategies for scaling SaaS platforms and improving reliability<br>💬 Ask me about building apps with Next.js and React.js<br>🤔 Fun fact - I find inspiration for problem-solving in chess, and I admire the creative brilliance of Mikhail Tal! His unconventional strategies influence how I approach development challenges.
 
 
